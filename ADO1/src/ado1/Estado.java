@@ -1,12 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package ado1;
 
 /**
  *
- * @author Desktop
+ * @author Felipe Mandelli
+ * Date: 09/03/2022
  */
 public class Estado {
     
